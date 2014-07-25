@@ -1,0 +1,21 @@
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\PainMonitorTeamB.exe.config
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\Database1.sdf
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\PainMonitorTeamB.exe
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\PainMonitorTeamB.pdb
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.csprojResolveAssemblyReference.cache
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.Form1.resources
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.Properties.Resources.resources
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.csproj.GenerateResource.Cache
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.exe
+C:\Users\joshua\Desktop\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.pdb
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\PainMonitorTeamB.exe.config
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.exe
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.pdb
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\Database1.sdf
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\Databasepain.sdf
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\PainMonitorTeamB.exe
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\bin\Debug\PainMonitorTeamB.pdb
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.csprojResolveAssemblyReference.cache
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.Form1.resources
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.Properties.Resources.resources
+C:\Users\joshua\Desktop\Desktop\code\PainMonitorTeamB (2)\PainMonitorTeamB\PainMonitorTeamB\obj\Debug\PainMonitorTeamB.csproj.GenerateResource.Cache
